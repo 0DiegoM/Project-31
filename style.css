@@ -1,0 +1,58 @@
+#test-logo {
+    
+    border: 10px;
+    border-color: grey;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+
+
+
+.test_img_and_result {
+    background-color: lightgray;
+    border-radius: 20px;
+    width: 1000px;
+    float: right;
+    margin-right: 600px;
+    margin-top: 60px;
+}
+
+.mini_result {
+    margin-top: 100px;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+h5 {
+    text-align: center;
+    font-size: large;
+    background: white;
+    height: 50px;
+    border-radius: 20px;
+}
+
+b {
+ color: lightseagreen;   
+}
+
+span {
+    font-weight: bold;
+}
+
+h4 {
+    font-weight: bold;
+}
+
+.test_img_and_result_2 {
+    background-color: lightgray;
+    border-radius: 20px;
+    width: 1000px;
+    float: right;
+    margin-right: 600px;
+    margin-top: 60px;
+    color: purple;
+}
